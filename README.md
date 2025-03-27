@@ -57,7 +57,7 @@ Each day's learning is recorded in a **Markdown file (`YYYY-MM-DD.md`)** inside 
 ## 🔄 **Daily Workflow**
 ### **1️⃣ Clone the Repo (First Time Only)**
 ```sh
-git clone https://github.com/your-username/daily-learning-log.git
+git clone https://github.com/praveen-E/daily-learning-log.git
 cd daily-learning-log
 ```
 
